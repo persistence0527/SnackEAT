@@ -155,8 +155,8 @@ Snake<-setRefClass("Snake",contains="Game",
        text(0.5,0.7,label=name,cex=5)
        text(0.5,0.4,label="Any keyboard to start",cex=2,col=4)
        text(0.5,0.3,label="Up,Down,Left,Rigth to control direction",cex=2,col=2)
-       text(0.2,0.05,label="Author:DanZhang",cex=1)
-       text(0.5,0.05,label="http://blog.fens.me",cex=1)
+       text(0.2,0.05,label="Author:syl",cex=1)
+       text(0.5,0.05,label="3198911207",cex=1)
      },
      
      # 结束画图
